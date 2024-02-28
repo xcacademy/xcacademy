@@ -8,7 +8,7 @@ We believe that everyone should have equal access to the tech economy, but many 
 
 The Experience Center Academy offers a full-time 24 week software engineering program for people from underrepresented and underserved communities to learn languages like CSS, HTML, JavaScript, Express, React, SQL, and NoSQL in an immersive, collaborative environment.
 
-### [Apply now!](humana.io/xca)
+### [Apply now!](http://humana.io/xca)
 
 Interviews start: March 2024
 
