@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! We're the Experience Center Academy 🚀
 
-<!--
-**xcacademy/xcacademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We believe that everyone should have equal access to the tech economy, but many underserved communities have been persistently excluded from it. 
 
-Here are some ideas to get you started:
+<b>We are changing that in Louisville, KY</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LEARN & EARN WITH US
+
+The Experience Center Academy offers a full-time 24 week software engineering program for people from underrepresented and underserved communities to learn languages like CSS, HTML, JavaScript, Express, React, SQL, and NoSQL inan immersive, collaborative environment.
+
+### [Apply now!](humana.io/xca)
+
+Interviews start: March 2024
+Deadline & Selections: April 01, 2024
+Cohort Begins: May 01, 2024
